@@ -2,7 +2,7 @@ var path = require("path");
 
 module.exports = {
   mode: "production",
-  entry: "./public/components/PopModal.js",
+  entry: "./src/components/PopModal.js",
   output: {
     path: path.resolve("lib"),
     filename: "PopModal.js",
