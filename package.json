@@ -1,6 +1,6 @@
 {
   "name": "modal-oc-14-mp",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "",
   "private": false,
   "main": "./src/components/PopModal.js",
